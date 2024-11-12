@@ -1,0 +1,11 @@
+User ID,Name,Age,Gender,Fitness Goal,Sports/Workout,Duration,Intensity,Fitness Level,Score
+1,Alex Smith,27,Male,Weight loss,"Running, HIIT",45 minutes,High,Intermediate,14
+2,Maria Lopez,32,Female,Muscle toning,"Weight training, Pilates",1 hour,Medium,Intermediate,12
+3,John Doe,40,Male,Endurance building,"Cycling, Swimming",2 hours,Moderate,Professional,13
+4,Emily Patel,22,Female,Flexibility improvement,"Yoga, Dance",30 minutes,Low,Beginner,8
+5,David Chang,35,Male,Strength building,"Crossfit, Rock climbing",1 hour,High,Professional,15
+6,Sarah Johnson,29,Female,Cardiovascular health,"Aerobics, Running",1 hour,Moderate,Intermediate,12
+7,Michael Brown,45,Male,Weight management,"Walking, Cycling",30 minutes,Low,Beginner,8
+8,Rachel Kim,26,Female,Body sculpting,"Weightlifting, HIIT",45 minutes,High,Intermediate,14
+9,Liam O'Brien,38,Male,Agility training,"Martial arts, Plyometrics",1 hour,High,Professional,15
+10,Emma Wilson,30,Female,Stress relief,"Tai chi, Swimming",1 hour,Low,Beginner,9
